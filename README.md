@@ -1,12 +1,8 @@
-# CyberThings
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6366F1,50:8B5CF6,100:7C3AED&text=CyberThings&fontColor=ffffff&fontSize=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:7C3AED&height=250&section=header&text=CyberThings&fontSize=80&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-### Offensive Security Engineer • AI Security Researcher
-
-Web Security • API Security • Mobile Security • AI Red Teaming • Vulnerability Research
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Offensive+Security+Engineer;AI+Security+Researcher;Bug+Bounty+Hunter;LLM+Red+Teaming+%26+Agent+Security;Web+%7C+API+%7C+Mobile+Security" />
 
 <br>
 
@@ -34,151 +30,152 @@ Web Security • API Security • Mobile Security • AI Red Teaming • Vulnera
 
 ---
 
-## About
+# Hi There 👋
 
-CyberThings focuses on offensive security, AI security, vulnerability research, and security automation.
+I'm **CyberThings**, a Security Researcher focused on Offensive Security, AI Security, Vulnerability Research, and Security Automation.
 
-I specialize in identifying security weaknesses across web applications, APIs, mobile applications, and modern AI systems. My work combines traditional penetration testing methodologies with AI-powered security research and automation.
+I enjoy discovering vulnerabilities, breaking systems ethically, building security tools, and researching emerging attack surfaces in AI-powered applications.
 
-### Areas of Focus
+<details>
+<summary>More About Me</summary>
 
-* Offensive Security
-* Web Application Security
-* API Security
-* Mobile Security
-* AI / LLM Security
-* Prompt Injection Research
-* Bug Bounty Hunting
-* Security Automation
+* Offensive Security Engineer
+* AI Security Researcher
+* Bug Bounty Hunter
+* Web Security Tester
+* API Security Specialist
+* Android Security Researcher
+* LLM Red Teaming
+* Security Tool Developer
 
----
-
-## Security Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,bash,cpp" />
-</p>
-
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,postgres" />
-</p>
-
-### Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vercel" />
-</p>
-
-### Security Tooling
-
-<p>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white">
-<img src="https://img.shields.io/badge/Frida-E91E63?style=flat-square">
-<img src="https://img.shields.io/badge/MobSF-8B5CF6?style=flat-square">
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square">
-<img src="https://img.shields.io/badge/Nessus-004C8C?style=flat-square">
-</p>
+</details>
 
 ---
 
-## AI Security Expertise
+# Current Focus
 
-| Domain                | Focus                            |
-| --------------------- | -------------------------------- |
-| LLM Red Teaming       | Prompt Injection, Jailbreaks     |
-| AI Agent Security     | Tool Abuse, Workflow Attacks     |
-| AI Security Testing   | Safety Evaluation & Validation   |
-| Autonomous Pentesting | AI-Assisted Security Testing     |
-| Security Automation   | Reporting & Validation Pipelines |
-| Threat Modeling       | AI Systems & Agent Architectures |
+👉 AI Security & LLM Red Teaming
 
----
+👉 Prompt Injection Research
 
-## Featured Projects
+👉 Agent Security Testing
 
-### Autonomous AI Pentest Platform
+👉 Advanced API Security
 
-AI-assisted penetration testing framework focused on scalable vulnerability discovery and validation.
+👉 Mobile Application Security
 
-**Technologies**
+👉 Security Automation Tooling
 
-* Python
-* AI Agents
-* Security Instrumentation
-* Automation Pipelines
+👉 Bug Bounty Research
 
 ---
 
-### AI Security Test Harness
-
-Security testing framework for AI applications.
-
-**Research Areas**
-
-* Prompt Injection
-* Jailbreak Testing
-* Agent Security
-* Data Leakage Detection
-
----
-
-### Security Automation Toolkit
-
-Tooling designed to automate repetitive security workflows while maintaining accuracy and validation standards.
-
----
-
-## Certifications
-
-<p>
-<img src="https://img.shields.io/badge/CEHPT-Certified-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/EHE-EC--Council-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/API_Penetration_Testing-APISec-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/HTML5-Infosys-orange?style=for-the-badge">
-</p>
-
----
-
-## GitHub Analytics
+# Security Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight">
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight">
+<img src="https://img.shields.io/badge/Frida-E91E63?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MobSF-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nessus-004C8C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,bash,react,nodejs,mongodb,mysql,postgres,docker,linux,git,github" />
 
 </div>
 
 ---
 
-## Current Focus
+# AI Security Expertise
 
-```yaml
-researching:
-  - AI Security
-  - Agent Security
-  - Prompt Injection Attacks
-  - Advanced Web Exploitation
-
-building:
-  - Security Automation Tools
-  - AI Security Frameworks
-  - Vulnerability Research Utilities
-
-learning:
-  - Cloud Security
-  - Advanced Mobile Security
-  - Agentic AI Security
-```
+| Domain                | Focus                             |
+| --------------------- | --------------------------------- |
+| LLM Security          | Prompt Injection, Jailbreaks      |
+| AI Agent Security     | Tool Abuse, Workflow Exploitation |
+| AI Red Teaming        | Adversarial Testing               |
+| Security Automation   | Validation Pipelines              |
+| Threat Modeling       | AI & Agent Systems                |
+| Autonomous Pentesting | AI-Assisted Assessments           |
 
 ---
 
-## Connect
+# Featured Projects
+
+### Autonomous AI Pentest Platform
+
+AI-powered vulnerability discovery and validation framework.
+
+### AI Security Test Harness
+
+Security evaluation framework for AI applications and agent systems.
+
+### Security Automation Toolkit
+
+Automated reporting and vulnerability validation tooling.
+
+### Android Security Research
+
+Dynamic analysis, reverse engineering, and runtime testing.
+
+---
+
+# Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CEHPT-Certified-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/EHE-EC--Council-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/API_Penetration_Testing-APISec-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HTML5-Infosys-orange?style=for-the-badge"/>
+
+</div>
+
+---
+
+# GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=8b5cf6&line=a78bfa&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# Connect
 
 <div align="center">
 
@@ -200,6 +197,6 @@ learning:
 
 <div align="center">
 
-### Breaking Systems. Building Security.
+### Breaking Systems • Securing AI • Building Better Defenses
 
 </div>
